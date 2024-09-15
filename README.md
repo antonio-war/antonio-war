@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antonio-war
-- 👀 I’m interested in iOS Development, Artificial Intelligence and IoT
+- 👀 I’m interested in iOS development, Artificial Intelligence and IoT
 - 🌱 I’m currently learning how to be happy
 - 📫 How to reach me : antonioguerra.it@gmail.com
 
